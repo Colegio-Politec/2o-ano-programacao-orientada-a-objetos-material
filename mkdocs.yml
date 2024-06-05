@@ -1,2 +1,10 @@
 ---
 site_name: 2o Ano - Programação Orientada à Objetos
+site_description: Material de Programação Orientada à Objetos
+site_author: Gustavo Villalta
+site_url: https://colegio-politec.github.io/2o-ano-programacao-orientada-a-objetos-material/
+repo_url: https://github.com/Colegio-Politec/2o-ano-programacao-orientada-a-objetos-material
+repo_name: Github
+
+nav:
+  - Home: "index.html"
